@@ -8,6 +8,6 @@ Password : 1111
 -> Login id2 : lg, 
 Password : 2222
 
-Link of Front Page : https://687a96604eebc93b87ca3bf3--imaginative-fenglisu-0ad78c.netlify.app/
+Link of Front Page : [https://687a96604eebc93b87ca3bf3--imaginative-fenglisu-0ad78c.netlify.app/](https://687a99e4dadc5535439beee7--imaginative-fenglisu-0ad78c.netlify.app/)
 
 github link : https://github.com/shivamgoyal9119/Bankist-website_JS
